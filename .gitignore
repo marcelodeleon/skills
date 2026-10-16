@@ -1,0 +1,14 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local agent state and caches
+.pi/
+.claude/
